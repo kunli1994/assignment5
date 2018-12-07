@@ -1,0 +1,19 @@
+There are six senses of this word("interest")
+
+The first sense is involvement, which means something you like and would like to get involve.\
+Example:[interest of japanese investors in u . s . mo also fueled by growing international interest in japanese behavior]
+
+The second sense is sake, which means the origin of the motivation or reason.
+Example:[interest to cbs inc . , which next season tad like an arcane maneuver of little interest outside washington]
+
+The third sense is interestingness, which shows that to some level of extent of interest.
+Example:[unchecked proliferation of special interest magazines.]
+
+The fourth sense is stake, which means bonus.
+Example:[oil and gas properties fat it is negotiating to sell a 20 % interest in its real estate]
+
+The fifth sense is interest_group, which means group of people have same interest.
+Example:[interest in the new cellular company and total would represent a controlling interest in the company]
+
+The last sense is interest rate, a number representing banking stuff.
+Example:[thought to indicate declining interest rates because they permit portfolio cause of recent rises in short-term interest rates]
